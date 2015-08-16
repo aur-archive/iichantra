@@ -1,0 +1,6 @@
+
+post_install() {
+
+  # Write permissions 
+  chmod 777 -R /usr/share/iichantra
+}
